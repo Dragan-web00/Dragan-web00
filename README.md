@@ -2,7 +2,7 @@
 # Hello! 👋 Who am I? #
 <div>
 <br/>
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🔭 Full-stack developer with 10+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
@@ -156,11 +156,11 @@
 <p align="center">
 
 
-<a href="https://github.com/COCO-DEV03033?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=COCO-DEV03033&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@COCO-DEV03033's github-readme-stats"/></a>
+<a href="https://github.com/Dragan-web00?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Dragan-web00&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Dragan-web00's github-readme-stats"/></a>
 
 
-<a href="https://github.com/COCO-DEV03033?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=COCO-DEV03033&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/COCO-DEV03033?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=COCO-DEV03033&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+<a href="https://github.com/Dragan-web00?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Dragan-web00&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/Dragan-web00?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dragan-web00&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
 </p>
 
@@ -178,7 +178,7 @@
 
 <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
-<!-- <a href="https://github.com/COCO-DEV03033??tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a> -->
+<!-- <a href="https://github.com/Dragan-web00??tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a> -->
 </p>
 
 
@@ -187,21 +187,21 @@
 
 <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/COCO-DEV03033?tab=following"><img src="https://img.shields.io/github/stars/COCO-DEV03033 ?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/COCO-DEV03033?tab=followers"><img src="https://img.shields.io/github/followers/COCO-DEV03033?&logoColor=red&style=social" alt="GitHub followers"></a>
+<a href="https://github.com/Dragan-web00?tab=following"><img src="https://img.shields.io/github/stars/Dragan-web00 ?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+<a href="https://github.com/Dragan-web00?tab=followers"><img src="https://img.shields.io/github/followers/Dragan-web00?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 
 <p align="center">
-<a href="https://gist.github.com/COCO-DEV03033"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="COCO-DEV03033 :: Visitor's Count" /></a>
+<a href="https://gist.github.com/Dragan-web00"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Dragan-web00 :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 https://t.me/US_PE50
 
 # Reach out to me #
-<a href="mailto:skyangel0421@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/R_E1010"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
+<a href="mailto:gagi4801@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="https://t.me/Dragan_99"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
 <a href="https://stackoverflow.com/users/20497571/angel-sky"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
 <a href="https://stackoverflow.com/users/20497571/angel-sky"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
 <a href="https://askubuntu.com/users/1733253/angel-sky"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
