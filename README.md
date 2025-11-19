@@ -3,7 +3,7 @@
 <div>
 <br/>
 👋 Hi, I’m Dragan! <br />
- <b>Senior Full-Stack Engineer | Embedded Linux Expert | AI/ML Developer</b>
+ <h2><b>Senior Full-Stack Engineer | Embedded Linux Expert | AI/ML Developer</b> </h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-10%2B_years-blue" />
