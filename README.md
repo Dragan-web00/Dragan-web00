@@ -2,11 +2,35 @@
 # Hello! 👋 Who am I? #
 <div>
 <br/>
-- 🔭 Full-stack developer with 10+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+# 👋 Hi, I’m **Dragan**
+### **Senior Full-Stack Engineer | Embedded Linux Expert | AI/ML Developer**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Experience-10%2B_years-blue" />
+  <img src="https://img.shields.io/badge/Location-Serbia-orange" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 **Full-stack developer with 10+ years of experience** building scalable, high-performance **web, mobile, and embedded applications**
+- 🌐 **Front-end expertise:** React, Next.js, Angular, Vue.js, TypeScript, Tailwind, Redux, React Native
+- ⚙️ **Back-end experience:** Node.js, Python (Django/Flask/FastAPI), PHP (Laravel), Go, PostgreSQL, MySQL, MongoDB, Redis
+- 📱 **Mobile development:** React Native, Flutter, Swift (iOS), Kotlin
+- 🛠 **Embedded Linux & Systems:** Linux kernel, device drivers, Yocto, Buildroot, U-Boot, C/C++, RTOS
+- 🤖 **AI/ML:** Built and integrated AI apps using ChatGPT/OpenAI, custom NLP models, deep learning pipelines
+- 😉 **Strong knowledge in:**
+  - Deep Learning (PyTorch, TensorFlow)
+  - Recommendation Systems
+  - Reinforcement Learning
+  - Computer Vision & Edge AI
+- ☁️ **DevOps & Cloud Infrastructure:** CI/CD, Docker, Kubernetes, Terraform
+  - AWS (EC2, S3, Lambda, ECS, RDS)
+  - Azure & GCP deployments
+- 👍 Experienced in **end-to-end system design**, API architecture, microservices, database optimization, and real-time communication (WebSockets, MQTT)
+- 🚀 Passionate about building reliable, user-focused products — from low-level firmware to full-stack platforms and AI-enabled applications.
 
 </div>
 
