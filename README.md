@@ -2,8 +2,8 @@
 # Hello! 👋 Who am I? #
 <div>
 <br/>
-# 👋 Hi, I’m **Dragan**
-### **Senior Full-Stack Engineer | Embedded Linux Expert | AI/ML Developer**
+👋 Hi, I’m Dragan! <br />
+ <b>Senior Full-Stack Engineer | Embedded Linux Expert | AI/ML Developer</b>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-10%2B_years-blue" />
