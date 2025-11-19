@@ -193,11 +193,10 @@
 
 
 <p align="center">
-<a href="https://gist.github.com/Dragan-web00"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Dragan-web00 :: Visitor's Count" /></a>
+<a href="https://gist.github.com/Dragan-web00"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="500+ :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-https://t.me/US_PE50
 
 # Reach out to me #
 <a href="mailto:gagi4801@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
